@@ -4,33 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="650c9ea0-86ef-470b-bc4b-3c60426e5405" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Udemy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_Classes/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_Classes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_Constructors/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_Constructors/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_Encapsulation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_Encapsulation/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_Inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_Inheritance/HourlyEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_Inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_Inheritance/SalariedEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_Inheritance/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_OOPMaster/Burger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_OOPMaster/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_OOPMaster/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_OOPMaster/MealOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_Polymorphism/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_Polymorphism/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_Polymorphism/GasPowerdCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_Polymorphism/HybridCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_Polymorphism/Main.java" afterDir="false" />
+    <list default="true" id="650c9ea0-86ef-470b-bc4b-3c60426e5405" name="Changes" comment="Intial Commit">
+      <change afterPath="$PROJECT_DIR$/src/Challenge_Abstratction/ArtObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_Abstratction/ProductForSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_Abstratction/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_Threads/EvenThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_Threads/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_Threads/OddThreads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -47,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yayadhi27&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yayadhi27/Java_Udemy.git&quot;,
+    &quot;accountId&quot;: &quot;b16417fd-aef9-4d57-bd9e-87790da11746&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -59,6 +53,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Store.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
@@ -73,6 +68,19 @@
       <option name="presentableId" value="Default" />
       <updated>1715666259286</updated>
     </task>
+    <task id="LOCAL-00001" summary="Intial Commit">
+      <option name="closed" value="true" />
+      <created>1715682236442</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715682236442</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Intial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intial Commit" />
   </component>
 </project>
